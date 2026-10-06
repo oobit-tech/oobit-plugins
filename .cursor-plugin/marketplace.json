@@ -1,23 +1,18 @@
 {
-  "name": "cursor-plugin-starters",
+  "name": "oobit",
   "owner": {
-    "name": "Your Org",
-    "email": "plugins@example.com"
+    "name": "Oobit",
+    "email": "support@oobit.com"
   },
   "metadata": {
-    "description": "Starter marketplace template for Cursor plugins",
-    "version": "0.1.0"
+    "description": "Oobit plugins for Cursor",
+    "version": "1.0.0"
   },
   "plugins": [
     {
-      "name": "starter-simple",
-      "source": "./plugins/starter-simple",
-      "description": "Minimal plugin with rules and skills only"
-    },
-    {
-      "name": "starter-advanced",
-      "source": "./plugins/starter-advanced",
-      "description": "Full-featured plugin with rules, skills, agents, commands, hooks, and MCP"
+      "name": "oobit",
+      "source": "./plugins/oobit",
+      "description": "Pay online with single-use Oobit virtual cards, confirmed by you in chat."
     }
   ]
 }

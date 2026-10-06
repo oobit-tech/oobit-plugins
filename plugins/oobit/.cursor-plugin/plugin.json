@@ -1,0 +1,28 @@
+{
+  "name": "oobit",
+  "displayName": "Oobit",
+  "version": "1.0.0",
+  "description": "Pay online with single-use Oobit virtual cards. Your agent checks your balance, asks you to confirm each purchase in chat, then gets a one-time card for that merchant and amount.",
+  "author": {
+    "name": "Oobit",
+    "email": "support@oobit.com"
+  },
+  "homepage": "https://www.oobit.com",
+  "repository": "https://github.com/oobit-tech/oobit-plugins",
+  "keywords": [
+    "oobit",
+    "crypto",
+    "bitcoin",
+    "stablecoin",
+    "credit-card",
+    "payments",
+    "virtual-card",
+    "checkout",
+    "shopping",
+    "mcp",
+    "oauth",
+    "grok-bot"
+  ],
+  "logo": "assets/logo.png",
+  "mcpServers": "mcp.json"
+}
